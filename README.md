@@ -17,22 +17,35 @@ The following required functionality is completed:
 
 ## Optional Features
 
-- [x] Improved styling and hover effects for stats cards.
+The following optional features are implemented:
+
+- [x] Added hover effects to the stats cards for improved user interaction.
+- [x] Improved styling and layout using Flexbox.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='PASTE_YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A5eGJ4b3Y4c3V3a2x0d3M3N2N4Z3M1YjJ2M3Q4N2V4dGd6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif)
 
 GIF created with LiceCap
 
 ## Notes
 
-One challenge I encountered was understanding how Git branches, commits, and pushes work together. I also learned how to use JavaScript functions like filter(), reduce(), and event listeners to dynamically update the webpage.
+One challenge I encountered while building the app was understanding how Git and GitHub work together, especially commits, pushes, branches, and pull requests. I also learned how to use JavaScript functions like `filter()`, `reduce()`, event listeners, template literals, destructuring, and DOM manipulation to dynamically update the webpage.
 
 ## License
 
 Copyright 2026 Amos Isaya
 
-Licensed under the Apache License, Version 2.0
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
