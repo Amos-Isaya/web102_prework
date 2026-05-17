@@ -1,10 +1,6 @@
 # WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: Amos Mgasa 
-
-https://github.com/user-attachments/assets/be769340-5de9-4afd-a63b-ddbad24ced36
-
-Isaya
+Submitted by: Amos Mgasa Isaya
 
 Sea Monster Crowdfunding is a website that displays information about games funded through crowdfunding. Users can view statistics about funded games and filter games based on funding status.
 
@@ -30,7 +26,7 @@ The following optional features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Watch the walkthrough video](5b0c750d-000d-4b43-81da-a6c4e6e656f1.mp4)
+https://github.com/user-attachments/assets/be769340-5de9-4afd-a63b-ddbad24ced36
 
 ## Notes
 
