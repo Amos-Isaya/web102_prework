@@ -26,9 +26,7 @@ The following optional features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A5eGJ4b3Y4c3V3a2x0d3M3N2N4Z3M1YjJ2M3Q4N2V4dGd6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif)
-
-GIF created with LiceCap
+[Watch the walkthrough video](5b0c750d-000d-4b43-81da-a6c4e6e656f1.mp4)
 
 ## Notes
 
